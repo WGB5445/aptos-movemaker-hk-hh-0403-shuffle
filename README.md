@@ -6,6 +6,8 @@
 
 - **测试网合约地址**: `0x68fd7b26ca8f8574b4e5ea9e183e3d27beb70c467c638e159149fa1fe5b4529e`
 - **网络**: Aptos测试网(Testnet)
+- **浏览器**: https://explorer.aptoslabs.com/object/0x68fd7b26ca8f8574b4e5ea9e183e3d27beb70c467c638e159149fa1fe5b4529e/modules/view/Shuffle/get_player_list_hk?network=testnet
+- 当前抽签顺序 8,10,13,5,16,2,22,30,25,29,15,27,24,23,26,14,6,9,34,21,32,17,20,18,31,19,11,7,1,4,28,12,33,3
 
 ## 功能概述
 
